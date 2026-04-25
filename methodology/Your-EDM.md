@@ -98,14 +98,9 @@ Keeping it current
 Add to it after significant projects, after interviews (especially if a question surfaces a story you hadn't thought to tell), and after you get feedback — positive or negative — on how you're presenting yourself.
 
 It doesn't need to be tidy. It just needs to be honest and dense.
-
-
-Using it with AI
-When starting a new application, share your Memory Bank with the AI alongside the job description. Ask it to identify which experiences are most relevant before you start tailoring anything. You'll often be pointed at things you wouldn't have led with.
+ 
+When starting a new application, share your Memory Bank with the AI alongside the job description and these prompts. 
 
 The checklist in this repo references your Memory Bank throughout. That's the workflow: JD in one hand, Memory Bank in the other, AI in the middle doing the matching.
 
-
-
-Mine started as a voice memo and a blank doc. Two years and 8,000 words later, it's the most useful career document I have — and it's not on my resume.
 
