@@ -5,21 +5,16 @@ Call it whatever you want. I call mine the EDM.  I think the acronym originally 
 
 
 What the EDM is 
-Your resume is a curated surface. The Memory Bank is what's underneath it.
+Your resume is a curated surface. The Memory Bank is the full breadth of experience underneath it.  
 
-A resume has to be scannable in 30 seconds. It presents 20 of 200 experiences. It leaves out the negotiation that saved $1.5M, the stakeholder who blocked the project for six months and how you got around them, the build-vs-buy decision you made and why, the team NPS score you're proud of but can't figure out how to fit in a bullet. It leaves out the early career stuff that suddenly becomes relevant when you're applying to a manufacturing company. It leaves out the things you did that were genuinely hard, because they're hard to summarize.
-
-A lot of online resume building tools will be better if they made you do the work of an EDM first. 
-
-The Memory Bank holds all of that. When you're tailoring a resume or preparing for an interview, the AI can mine it for proof points you wouldn't have thought to reach for yourself.
-
+A lot of online resume building tools will be better if they made you do the work of an EDM first.  When you're tailoring a resume or preparing for an interview, the AI can mine it for proof points you wouldn't have thought to reach for yourself.
 
 How I built mine
 Voice to text. I often used Audiopen to talk through career chapters as I paged through old notebooks, so I could capture a lot of detail easily, even if it didn’t seem relevant to the last role I saw.
 
-The prompt I gave myself before each recording session: "What did I actually do, what was hard about it, who was involved, what changed because of it, and what would I want someone to know that wouldn't fit on a resume?"
+The prompt I (informally) gave myself before each recording session: "What did I actually do, what was hard about it, who was involved, what changed because of it, and what would I want someone to know that wouldn't fit on a resume?"
 
-Then structured it chronologically. I organized by company and year, but kept the raw notes intact. No cleaning up the rough edges — the rough edges are often where the best proof points live.
+Then structured it chronologically in a big ol'e google doc. I organized by company and year, but kept the raw notes intact. No cleaning up the rough edges — the rough edges are often where the best proof points live. Every so often, I add details about long-forgotten projects or details. I also added some past recommendations by peers; helpful for cover letters or to find descriptive lines that I feel good about saying.
 
 What I generally included:
 
@@ -48,8 +43,6 @@ A resume is optimized for skimmability. A Memory Bank is optimized for retrieval
 
 When you ask an AI to tailor your resume for a specific role, the limiting factor is usually the quality of the source material. If all it has is your resume, it will rephrase your resume. If it has your Memory Bank, it can surface the Anaplan negotiation story when you're applying to a role that mentions financial systems, or the GDPR build when compliance architecture comes up, or the early Salesforce implementation at a small company when the role values scrappiness.
 
-The AI is good at pattern-matching across a large document. You are not — not reliably, not under time pressure, not when you're on your fifteenth application of the month. That's the division of labor.
-
 
 What to put in yours
 The categories below are a starting point. Your career will have its own shape — follow that, not this list.
@@ -60,11 +53,10 @@ Title, dates, reporting structure
 Team size and composition (FTEs, contractors, consultants)
 Budget owned (capex, opex, software spend)
 The 3-5 things you spent most of your time on
-The 1-2 things you're most proud of
-The hardest thing about the role
+Many things that you are proud of
 What you built that didn't exist before
 What you inherited and what you changed
-Key stakeholders and how you worked with them
+Key stakeholders and how you worked with them, quotes or feedback from them
 
 Projects:
 
