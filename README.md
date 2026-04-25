@@ -22,21 +22,14 @@ Reusable prompt templates, each designed to produce a specific structured output
 **[interview-prep.md](prompts/interview-prep.md)** — Full prep package: interviewer intelligence, strengths mapping, ATEL pitch
 **[cover-letter.md](prompts/cover-letter.md)** — Cover letter framing built around voice consistency and specificity
 
-**examples/**
-Anonymized outputs from real applications, showing the methodology in practice.
-
-**[enterprise-mdm-vendor/](examples/enterprise-mdm-vendor/)** — Research brief and cover letter for an IT Business Systems role
-**[collaboration-saas/](examples/collaboration-saas/)** — Interview prep package for a SaaS Apps & Governance role
-
 
 **Background**
 I'm a systems and enterprise applications leader - GTM strong, but also looking at interesting roles in adjacent areas. This search generally spans roles at enterprise SaaS, manufacturing and digital infrastructure companies, in business systems, SaaS governance and team leadership, occasionally Chief of Staff or other interesting-looking roles. The workflow here evolved through active use, refined by what helped. Let's just say Claude and I spend quality time together, and our household has evolved a hand signal for "ask claude" (to use this, put both hands in the air and make exaggerated typing motions.)
 
-
 If you're working on something similar, or have a different approach worth comparing, I'd like to hear from you! LinkedIn.
 
 
-Other repos
+Other repos not posted yet
 cafe-operations — AI-assisted workflows for running a creative small business (coming soon)
 livehive (coming soon)
 The Good Balance Podcast Research and Editing
