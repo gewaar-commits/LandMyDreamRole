@@ -9,27 +9,28 @@ What's here
 **methodology/**
 The frameworks that run the workflow. Start here.
 
-**how-i-work-with-ai.md** — How I structure AI collaboration for judgment-heavy work
-fit-scoring-framework.md — How I assess role fit, score gaps honestly, and decide where to invest time
-resume-tailoring-checklist.md — Pre-submission checklist covering voice, ATS, credibility, and JD-mirroring traps
-prompts/
+**[HowIWorkWithAI.md](methodology/HowIWorkWithAI.md)** — How I structure AI collaboration for judgment-heavy work
+**[FitScoringFramework.md](methodology/FitScoringFramework.md)** — How I assess role fit, score gaps honestly, and decide where to invest time
+**[resume-tailoring-checklist.md](methodology/resume-tailoring-checklist.md)** — Pre-submission checklist covering voice, ATS, credibility, and JD-mirroring traps
+**[Your-EDM.md](methodology/Your-EDM.md)** — The Experience Deep Mine: how to build and use a Career Memory Bank
+
+**prompts/**
 Reusable prompt templates, each designed to produce a specific structured output.
 
-**company-research.md** — Company snapshot, role analysis, tech stack, culture signals
-jd-decoder.md — Strips JD language to surface what the role is actually asking for
-interview-prep.md — Full prep package: interviewer intelligence, strengths mapping, ATEL pitch
-cover-letter.md — Cover letter framing built around voice consistency and specificity
-examples/
+**[company-research.md](prompts/company-research.md)** — Company snapshot, role analysis, tech stack, culture signals
+**[jd-decoder.md](prompts/jd-decoder.md)** — Strips JD language to surface what the role is actually asking for
+**[interview-prep.md](prompts/interview-prep.md)** — Full prep package: interviewer intelligence, strengths mapping, ATEL pitch
+**[cover-letter.md](prompts/cover-letter.md)** — Cover letter framing built around voice consistency and specificity
+
+**examples/**
 Anonymized outputs from real applications, showing the methodology in practice.
 
-**enterprise-mdm-vendor/** — Research brief and cover letter for an IT Business Systems role
-collaboration-saas/ — Interview prep package for a SaaS Apps & Governance role
-reflections.md
-What worked, what didn't, where the AI was useful and where it wasn't. The whole enchilada.
+**[enterprise-mdm-vendor/](examples/enterprise-mdm-vendor/)** — Research brief and cover letter for an IT Business Systems role
+**[collaboration-saas/](examples/collaboration-saas/)** — Interview prep package for a SaaS Apps & Governance role
 
 
 **Background**
-I'm a systems and enterprise applications leader - GTM strong, but also looking at interesting roles in adjacent areas. This search generally spans roles at enterprise SaaS, manufacturing and digital infrastructure companies, in business systems, SaaS governance and team leadership, occasionally Chief of Staff or other interesting-looking roles. The workflow here evolved through active use, refined by what helped. Let’s just say Claude and I spend quality time together, and our household has evolved a hand signal for “ask claude” (to use this, put both hands in the air and make exaggerated typing motions.)
+I'm a systems and enterprise applications leader - GTM strong, but also looking at interesting roles in adjacent areas. This search generally spans roles at enterprise SaaS, manufacturing and digital infrastructure companies, in business systems, SaaS governance and team leadership, occasionally Chief of Staff or other interesting-looking roles. The workflow here evolved through active use, refined by what helped. Let's just say Claude and I spend quality time together, and our household has evolved a hand signal for "ask claude" (to use this, put both hands in the air and make exaggerated typing motions.)
 
 
 If you're working on something similar, or have a different approach worth comparing, I'd like to hear from you! LinkedIn.
