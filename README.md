@@ -1,35 +1,34 @@
 LandMyDreamRole
 A documented workflow for running a senior-level job search with AI as a working partner.
 
-Not just a writing assistant! A thinking partner for research, fit assessment, application tailoring, and interview prep, with frameworks that hold up across dozens of applications without collapsing into copy-paste.
+Not just a writing assistant! A thinking partner for research, fit assessment, application tailoring, and interview prep, with frameworks that allow me to personalize each resume meaningfully (while staying true to my own experience), do good research for each role, the interviewers, their style and preferences, and my ideal positioning for the role. Once I land an interview, deep dives into weak areas, preparation (learning, drawing meaningful parallels from past experience to new areas, and analysis of interview practice sessions).
 
-I built this because the process got complex enough that it needed a system. The system got interesting enough to share.
-
+I'm sharing this because I've realized as I talk to other jobseekers, that while there's a lot of resume builder apps out there, they don't seem to go as deep as my process. I don't want to load my voice and details into 3rd party apps at this time; nor do I want to pay for many more subscriptions. So, this evolved.
 
 What's here
-methodology/
+**methodology/**
 The frameworks that run the workflow. Start here.
 
-how-i-work-with-ai.md — How I structure AI collaboration for judgment-heavy work
+**how-i-work-with-ai.md** — How I structure AI collaboration for judgment-heavy work
 fit-scoring-framework.md — How I assess role fit, score gaps honestly, and decide where to invest time
 resume-tailoring-checklist.md — Pre-submission checklist covering voice, ATS, credibility, and JD-mirroring traps
 prompts/
 Reusable prompt templates, each designed to produce a specific structured output.
 
-company-research.md — Company snapshot, role analysis, tech stack, culture signals
+**company-research.md** — Company snapshot, role analysis, tech stack, culture signals
 jd-decoder.md — Strips JD language to surface what the role is actually asking for
 interview-prep.md — Full prep package: interviewer intelligence, strengths mapping, ATEL pitch
 cover-letter.md — Cover letter framing built around voice consistency and specificity
 examples/
 Anonymized outputs from real applications, showing the methodology in practice.
 
-enterprise-mdm-vendor/ — Research brief and cover letter for an IT Business Systems role
+**enterprise-mdm-vendor/** — Research brief and cover letter for an IT Business Systems role
 collaboration-saas/ — Interview prep package for a SaaS Apps & Governance role
 reflections.md
 What worked, what didn't, where the AI was useful and where it wasn't. The whole enchilada.
 
 
-Background
+**Background**
 I'm a systems and enterprise applications leader - GTM strong, but also looking at interesting roles in adjacent areas. This search generally spans roles at enterprise SaaS, manufacturing and digital infrastructure companies, in business systems, SaaS governance and team leadership, occasionally Chief of Staff or other interesting-looking roles. The workflow here evolved through active use, refined by what helped. Let’s just say Claude and I spend quality time together, and our household has evolved a hand signal for “ask claude” (to use this, put both hands in the air and make exaggerated typing motions.)
 
 
