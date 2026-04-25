@@ -1,7 +1,7 @@
 Your Experience Deep Mine (or Career Memory Bank)
 The single most useful thing you can do before working with AI on job applications is build a document that contains everything — not a polished version of everything, but the actual everything.
 
-Call it whatever you want. I call mine the EDM.  I think the acronym originally came from Albano, who recommends creating an Experience Document Map for crafting your story.  For AI, and Experience Deep Mine makes more sense. You can find Albano here. https://www.linkedin.com/in/albano-gega/ - he presents an overall methodology for job seeking which you can evaluate for your use, separately.
+Call it whatever you want. I call mine the EDM.  I think the acronym originally came from Albano Gega, a career coach for technical job seekers who recommends creating an Experience Document Map for crafting your story/LinkedIn persona/resume.  For AI,  Experience Deep Mine feels like a good evolution. You can find Albano here: https://www.linkedin.com/in/albano-gega/ - he presents an overall methodology for job seeking which you can evaluate for your use, separately.
 
 
 What the EDM is 
