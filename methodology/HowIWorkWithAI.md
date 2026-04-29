@@ -2,7 +2,7 @@ How I Work with AI
 
 The mental model
 I think of AI as a thinking partner, not a ghostwriter.  
-A ghostwriter produces output. A thinking partner helps you think — surfaces what you haven't considered, pushes back on weak framing, finds the connection between something you did eight years ago and something the job description is asking for today.
+A ghostwriter produces output. A thinking partner helps you think — surfaces experience points you may not have considered, pushes back on weak framing, and of course - do it all in record time.
 The AI is good at pattern-matching across large amounts of text, holding multiple constraints simultaneously, and generating options quickly. I'm good at knowing what's true, what's defensible, and what actually happened. The workflow is built around that division of labor.
 
 What the AI does
@@ -18,10 +18,10 @@ Catches inconsistencies and credibility gaps before they become interview proble
 What I do
 
 Decide what's true and what's defensible
-Verify every metric before it goes on a resume
+Verify metrics before it goes on a resume
 Make judgment calls on fit, framing, and tone
-Push back when the output sounds like it came from a template
-Edit until it sounds like me
+Finalize output with my own tone (my style guide is a work in progress, I don't share that publicly).
+Edit until it feels like me
 
 The AI doesn't know what I actually did. It knows what I've written down. That's why the Career Memory Bank matters — the richer the source material, the more useful the pattern-matching.
 
@@ -36,10 +36,11 @@ For roles that get to interview stage, build a full prep package: company resear
 
 
 A few things I've learned
+
 Source material quality is the ceiling. If you give the AI a thin resume and a JD, it will rephrase the thin resume. The Career Memory Bank exists to raise that ceiling.
-The first draft is never the output. It's a starting point for editing. The editing is where the voice comes back.
-Ask it to push back. One of the more useful prompts in this workflow: "What's the weakest part of this application, and how would a skeptical recruiter read it?" The answer is usually worth hearing.
-It can hallucinate (although I don't run into this often, with the tight boundaries I provide). Every metric, every claim, every specific detail gets verified before it goes anywhere.
+The first draft is never the output. It's a starting point for editing, and from there I add back my own voice. 
+Ask it to push back! One of the more useful prompts in this workflow: "What's the weakest part of this application, and how would a skeptical recruiter read it?" The answer is usually worth hearing.
+To protect against drift and hallucinations (although I don't run into this often, with the tight boundaries I provide) - ask it to state references for proof points, be very careful of subtle overstatements. 
 
 
-The rest of this repo is the workflow in practice. Start with the Career Memory Bank if you haven't built yours yet — everything else depends on it.
+The rest of this repo is the workflow in practice. Start with the Career Memory Bank if you haven't built yours yet - everything else depends on it.
