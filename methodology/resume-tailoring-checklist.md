@@ -1,6 +1,6 @@
 # Resume Tailoring Checklist
 
-A pre-submission checklist for senior-level applications. Built for roles where the JD is dense, the competition is real, and a generic resume won't clear the bar.
+A pre-submission checklist for senior-level applications. 
 
 Use it before each new application. Update it as patterns emerge.
 
